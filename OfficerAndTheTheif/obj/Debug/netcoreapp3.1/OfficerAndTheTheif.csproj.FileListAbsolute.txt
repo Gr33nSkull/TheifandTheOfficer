@@ -1,0 +1,14 @@
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.exe
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.deps.json
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.runtimeconfig.json
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.runtimeconfig.dev.json
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.dll
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\bin\Debug\netcoreapp3.1\OfficerAndTheTheif.pdb
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.csproj.AssemblyReference.cache
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.AssemblyInfoInputs.cache
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.AssemblyInfo.cs
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.csproj.CoreCompileInputs.cache
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.dll
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.pdb
+C:\Users\Domen\source\repos\OfficerAndTheTheif\OfficerAndTheTheif\obj\Debug\netcoreapp3.1\OfficerAndTheTheif.genruntimeconfig.cache
